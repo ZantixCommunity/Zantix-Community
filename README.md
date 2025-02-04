@@ -23,8 +23,6 @@
 
 </div>
 
-
-
 <!-- Snake -->
 <div align="center">
     
